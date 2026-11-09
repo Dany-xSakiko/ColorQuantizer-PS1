@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+build_pyi/
+build/
+dist/
+*.spec.bak
+.venv/
+venv/
+*.log
+*_ps1.png
+*_ps1.jpg
+*_ps1.bmp
+*_ps1.tga
